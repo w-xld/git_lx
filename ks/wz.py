@@ -1,3 +1,3 @@
 import time
-print("he ehe asjkdghk ")
+print("he ehe dasfsd asjkdghk ")
 
